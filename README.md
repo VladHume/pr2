@@ -53,14 +53,13 @@ int main(){
 1. Після компіляції переглянемо розміри сегментів:
 
    ```bash
-   size time_limit
+   size task1
    ```
 
-   Приклад виводу:
+   Вивід:
 
    ```
-   text    data     bss     dec     hex filename
-   1234     567      89     1890    762  time_limit
+   ![Вивід](size.png)
    ```
 
    - `text` — код програми (функції).
@@ -70,13 +69,13 @@ int main(){
 2. Також можна дослідити таблицю символів:
 
    ```bash
-   nm time_limit
+   nm task1
    ```
 
 3. Для повнішого аналізу сегментів:
 
    ```bash
-   objdump -h time_limit
+   objdump -h task1
    ```
 
 ## Висновки
