@@ -12,7 +12,7 @@ int main(){
 
 	printf("32 bit: %s\n", ctime(&max_32));
 	printf("64 bit: %s\n", ctime(&max_64));
-	printf("%s\n", ctime(&s_max_64));
+	printf("64 bit(but long/1000): %s\n", ctime(&s_max_64));
 
 	return 0;
 }
