@@ -185,6 +185,13 @@ int main() {
 Отримуємо приблизне розташування стека у системі
 ![image](https://github.com/user-attachments/assets/fc7a5bb2-783b-4e47-8aca-738656854751)
 
+Напишемо код, для знаходження розташувань інших сегментів
+### Код
+[task3_m.c](https://github.com/VladHume/pr2/blob/master/task3_m.c)
+### Скриншот з результатами
+![image](https://github.com/user-attachments/assets/047df42e-efa6-4ab8-ad46-5ebe17352dd0)
+
+
 
 
 
