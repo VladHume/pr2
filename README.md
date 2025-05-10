@@ -72,8 +72,7 @@ int main(){
 
 
 # Завдання 2:
-## Результати дослідження
-
+### Код
 ```c
 #include <stdio.h>
 
@@ -82,3 +81,18 @@ int main(){
 	return 0;
 }
 ```
+### Результати виконання дослідження
+```bash
+ls -l task2
+```
+![image](https://github.com/user-attachments/assets/d0a48be2-89f1-4559-960a-0532ba90031b)
+
+```bash
+size task2
+```
+![image](https://github.com/user-attachments/assets/ad33281c-b85d-4963-a46f-bc232544c62b)
+
+
+
+
+
