@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <sys/types.h>
-#define MSG "In function %20s; &localvar = %p\n";
+#define MSG "In function %20s; &localvar = %p\n"
 static void bar_is_now_closed(void) {
   int localvar = 5;
   printf(MSG, __FUNCTION__, &localvar);
