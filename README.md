@@ -82,25 +82,59 @@ int main(){
 }
 ```
 ### Результати виконання дослідження
+#### Команда
 ```bash
 ls -l task2
 ```
+#### Скриншот виконання
 ![image](https://github.com/user-attachments/assets/d0a48be2-89f1-4559-960a-0532ba90031b)
-
+#### Команда
 ```bash
 size task2
 ```
+#### Скриншот виконання
 ![image](https://github.com/user-attachments/assets/ad33281c-b85d-4963-a46f-bc232544c62b)
 
 ### Після додавання глобального масиву 
-```bash
+```c
 int arr[1000];
 ```
+#### Команди 
 ```bash
 ls -l task2
 size task2
 ```
+#### Скриншот виконання
 ![image](https://github.com/user-attachments/assets/2923475e-628f-4626-bd21-e5cdae123ce7)
+
+### Після оголошення початкового елемента масива
+```c
+arr[0] = 10;
+```
+#### Команди 
+```bash
+ls -l task2
+size task2
+```
+
+#### Скриншот виконання
+![image](https://github.com/user-attachments/assets/222b8f5b-2b25-42c4-91ab-3b378091731d)
+
+### Після оголошення та ініціалізації великого масиву всередині функції
+```c
+int arr2[1000] = {10};
+```
+#### Команди 
+```bash
+ls -l task2
+size task2
+```
+
+#### Скриншот виконання
+
+
+
+
 
 
 
