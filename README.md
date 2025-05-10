@@ -92,6 +92,19 @@ size task2
 ```
 ![image](https://github.com/user-attachments/assets/ad33281c-b85d-4963-a46f-bc232544c62b)
 
+### Після додавання глобального масиву 
+```bash
+int arr[1000];
+```
+```bash
+ls -l task2
+size task2
+```
+![image](https://github.com/user-attachments/assets/2923475e-628f-4626-bd21-e5cdae123ce7)
+
+
+
+
 
 
 
