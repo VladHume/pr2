@@ -131,6 +131,7 @@ size task2
 ```
 
 #### Скриншот виконання
+![image](https://github.com/user-attachments/assets/d44f80d9-0f51-4774-bc28-08a9bc7e2545)
 
 
 
