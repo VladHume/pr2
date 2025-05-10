@@ -169,9 +169,9 @@ gcc -Wall -g -O2 -o task2 task2.c
 ```c
 #include <stdio.h>
 int main() {
-int i;
-printf("The stack top is near %p\n", &i);
-return 0;
+	int i;
+	printf("The stack top is near %p\n", &i);
+	return 0;
 }
 ```
 Знайдіть розташування сегментів даних і тексту, а також купи всередині
