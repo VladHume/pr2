@@ -133,6 +133,14 @@ size task2
 #### Скриншот виконання
 ![image](https://github.com/user-attachments/assets/d44f80d9-0f51-4774-bc28-08a9bc7e2545)
 
+### Виконання прапорців налагодження та оптимізації
+```bash
+gcc -Wall -g -O2 -o task2 task2.c
+```
+#### Скриншот виконання
+
+![image](https://github.com/user-attachments/assets/807f0ebd-1b3b-4423-ae13-d0d954e99610)
+
 
 
 
